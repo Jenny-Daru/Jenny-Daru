@@ -3,6 +3,16 @@
 ## ⚒️ Skills ⚒️
 
 ![](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
+![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+![](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=Android&logoColor=white)
+<br>
+![](https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![](https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+![](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
+![](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)
+![](https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+
+
 
 
 
