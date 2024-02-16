@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-## ⚒️ STACK
+## ⚒️ Skills ⚒️
+
+https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white
+
+
 
 <!--
 **Jenny-Daru/Jenny-Daru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
