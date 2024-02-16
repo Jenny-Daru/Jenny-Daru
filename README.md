@@ -9,11 +9,11 @@
 <br>
 <br>
 ### Tools
-![](https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![](https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
-![](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
-![](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)
-![](https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![](https://img.shields.io/badge/Androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 <br>
 <br>
 <br>
