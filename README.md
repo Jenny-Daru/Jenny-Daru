@@ -17,6 +17,6 @@
 
 
 # 📫 Contacts
-<a href="https://jenny-daru.tistory.com"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white" /></a>
+<a href="https://jenny-daru.tistory.com"><img src="https://img.shields.io/badge/000000?style=flat-square&logo=tistory&logoColor=white" /></a>
 ![](https://img.shields.io/badge/jihyeonyun812@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)
 
