@@ -1,4 +1,4 @@
-# Yun JiHyeon 🌱
+# Mobile App Developer 🌱
 <br><br><br>
 
 # ⚒️ Skills ⚒️
